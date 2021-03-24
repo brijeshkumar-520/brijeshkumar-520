@@ -1,0 +1,10 @@
+input (int):
+a=9734
+b=7241
+c=1111
+List[a,b,c,d]
+for i in List:
+entry=i-int
+if entry=0:
+break
+return welcome
